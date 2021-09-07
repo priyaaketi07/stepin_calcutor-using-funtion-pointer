@@ -20,7 +20,7 @@
 
 ## Defining Our System
 ### Architecture
-![Architecture]()
+![Architecture](https://github.com/priyaaketi07/stepin_calcutor-using-funtion-pointer/blob/main/1_Requirements/Architecture.png)
 - Bank Management System application is capable of performing following functions-: . 
     - Add account
     - Deposit Money
