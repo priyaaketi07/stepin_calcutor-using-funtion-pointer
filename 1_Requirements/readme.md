@@ -31,7 +31,7 @@
     - Reading account details from File
     - Saving all account dtails to File
 ## SWOT ANALYSIS
-![SWOT-Analysis]()
+![SWOT-Analysis](https://github.com/priyaaketi07/stepin_calcutor-using-funtion-pointer/blob/main/1_Requirements/swot.jpg)
 # 4W&#39;s and 1&#39;H
 
 ## Who:
