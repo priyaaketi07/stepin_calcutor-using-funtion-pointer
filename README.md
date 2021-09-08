@@ -9,3 +9,4 @@ Cashpoint's enable individuals to make banking transactions without the help of 
 [![Unit Testing - Unity](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/actions/workflows/unittest.yml/badge.svg)](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/actions/workflows/unittest.yml)
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/actions/workflows/cppcheck.yml)
+[![C/C++ CI - Build Status](https://github.com/priyaaketi07/stepin_calcutor-using-funtion-pointer/actions/workflows/build.yml/badge.svg)](https://github.com/priyaaketi07/stepin_calcutor-using-funtion-pointer/actions/workflows/build.yml)
